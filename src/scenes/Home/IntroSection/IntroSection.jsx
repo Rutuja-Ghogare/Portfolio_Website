@@ -21,9 +21,9 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I'm a Software Engineer and a Full-Stack Developer with 2.5 years of
+              I'm a Software Engineer and a Full-Stack Developer with 2.7 years of
               experience <br />
-              I'm currently enrolled in the Master of Information Systems program at Northeastern University, Boston, where I'm honing my skills in problem-solving, programming, and software development.
+              I'm currently enrolled in the Master in Information Systems program at Northeastern University, Boston, where I'm honing my skills in problem-solving, programming, and software development.
               creating user friendly applications for Web
               platforms.
               As a driven and detail-oriented individual, I excel at crafting high-quality products that prioritize both user experience and technical excellence.
