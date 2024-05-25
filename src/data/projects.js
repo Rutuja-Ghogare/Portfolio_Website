@@ -179,6 +179,28 @@ const data = [
       '#restapi',
     ],
   },
+  {
+    id: '9',
+    title: 'Spotify Clone',
+    description:
+      'Created a Spotify clone for a seamless music streaming experience',
+    image: {
+      src: '../Images/Spotify.png',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://spotify-clone-sepia-gamma.vercel.app/',
+      repo: 'https://github.com/Rutuja-Ghogare/spotify-clone',
+    },
+    technologies: [
+      '#react',
+      '#JavaScript',
+      '#NextJs',
+      '#Supabase',
+      '#TailwindCSS',
+    ],
+  },
 ];
 
 export default data;
