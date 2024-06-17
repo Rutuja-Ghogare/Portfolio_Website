@@ -201,6 +201,29 @@ const data = [
       '#TailwindCSS',
     ],
   },
+
+  {
+    id: '10',
+    title: 'Image Generation App',
+    description:
+      ' Developed a full-stack MERN application inspired by OpenAIs DALL-E',
+    image: {
+      src: '../Images/dalle.png',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://github.com/Rutuja-Ghogare/Image-generation-app/tree/main',
+      // repo: 'https://github.com/Rutuja-Ghogare/spotify-clone',
+    },
+    technologies: [
+      '#react',
+      '#MongoDB',
+      '#Node.js',
+      '#OpenAI API',
+      '#TailwindCSS',
+    ],
+  },
 ];
 
 export default data;

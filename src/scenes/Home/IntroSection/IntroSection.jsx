@@ -21,12 +21,9 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I'm a Software Engineer and a Full-Stack Developer with 2.7 years of
-              experience <br />
-              I'm currently enrolled in the Master in Information Systems program at Northeastern University, Boston, where I'm honing my skills in problem-solving, programming, and software development.
-              creating user friendly applications for Web
-              platforms.
-              As a driven and detail-oriented individual, I excel at crafting high-quality products that prioritize both user experience and technical excellence.
+            I'm a <span className={s.purple}>Software Engineer </span> and a <span className={s.purple}>Full-Stack Developer </span> with 3 years of experience
+            I have completed my Masters 🎓 in Information Systems from Northeastern University, Boston where I focused on software development and full stack development. As a driven and detail-oriented individual, I excel at crafting high-quality products that prioritize both user experience and technical excellence.
+         
             </p>
 
             <p>
@@ -44,9 +41,9 @@ const IntroSection = () => {
             </p>
 
             <p>
-              My field of Interest's are building new
+            💕 I'm passionate about turning complex challenges into seamless solutions, making technology work smarter and lives easier. Let's build something amazing together!
               <i>
-                <b className={s.purple}> Technologies and Products</b>
+                <b className={s.purple}> Let's build something amazing together! </b> 💜
               </i>
             </p>
           </div>
